@@ -552,6 +552,38 @@
           "a": 2200
         }
       ]
+    },
+    {
+      "id": "exp-17841780363030.9453618244040546",
+      "date": "2026-07-03",
+      "net": -500,
+      "entries": 0,
+      "players": 0,
+      "income": 0,
+      "expenses": 500,
+      "expItems": [
+        {
+          "l": "מיכל",
+          "a": 500
+        }
+      ],
+      "isExpenseOnly": true
+    },
+    {
+      "id": "exp-17841780913750.3069720490760005",
+      "date": "2026-07-13",
+      "net": -1180,
+      "entries": 0,
+      "players": 0,
+      "income": 0,
+      "expenses": 1180,
+      "expItems": [
+        {
+          "l": "מיכאל פרסומות",
+          "a": 1180
+        }
+      ],
+      "isExpenseOnly": true
     }
   ],
   "tournaments": [
@@ -1543,6 +1575,32 @@
       ],
       "expenses": 2407,
       "net": -2407,
+      "isExpenseOnly": true
+    },
+    {
+      "id": "exp-17841780363030.9453618244040546",
+      "date": "2026-07-03",
+      "expItems": [
+        {
+          "l": "מיכל",
+          "a": 500
+        }
+      ],
+      "expenses": 500,
+      "net": -500,
+      "isExpenseOnly": true
+    },
+    {
+      "id": "exp-17841780913750.3069720490760005",
+      "date": "2026-07-13",
+      "expItems": [
+        {
+          "l": "מיכאל פרסומות",
+          "a": 1180
+        }
+      ],
+      "expenses": 1180,
+      "net": -1180,
       "isExpenseOnly": true
     }
   ],
